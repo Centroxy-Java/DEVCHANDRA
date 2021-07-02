@@ -50,11 +50,10 @@ public class securityconfig extends WebSecurityConfigurerAdapter{
 ```bash
 mvn spring-boot:run
   ```
-
-###3. Open browser and browse at 
+## 3. Use below url for Test your project
 
 http://localhost:1001
 
-If you get credetial then you used
+If you get user credetial then you used
 
 http://localhost:1001/user
