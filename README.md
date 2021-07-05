@@ -12,6 +12,11 @@ Docker is a tool designed to make it easier to build, deploy and run application
 Advatages:-
 Containers allow a developer to package up an application w ith all of the parts it needs such as libra ries and other dependencies and ship it all ou	as one package.
 
+# Docker work flow
+
+![image](https://user-images.githubusercontent.com/74757221/124492097-a0c37700-ddd1-11eb-8334-ca34b468321f.png)
+
+
 # Docker install
 https://docs.docker.com/docker-for-windows/install/
 
