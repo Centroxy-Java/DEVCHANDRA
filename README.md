@@ -16,6 +16,8 @@ Containers allow a developer to package up an application w ith all of the parts
 https://docs.docker.com/docker-for-windows/install/
 
 # Docker command for build docker image.
+![image](https://user-images.githubusercontent.com/74757221/124491904-68bc3400-ddd1-11eb-9697-3cb5583cd9d2.png)
+
 
 After instal docker in your local machine .
 
